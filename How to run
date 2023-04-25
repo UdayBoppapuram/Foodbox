@@ -1,0 +1,7 @@
+Unlock the zip file and run in VSCODE after unzipping
+ADD Database file available in code in Xampp
+http://localhost/foodbox/index.php for customer view
+From here customer can access the items and they can order
+
+http://localhost/foodbox/admin/index.php for Admin view
+From here admin can change/update/add/delete the Restaurants/Items/menu/rice/Images/etc
