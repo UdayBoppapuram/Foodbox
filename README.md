@@ -26,7 +26,7 @@ To get more help on the Angular CLI use ng help or go check out the Angular CLI 
 
 
 
-Project Name: Food Picky - Online Food Ordering System
+Project Name: Food BOX - Online Food Ordering System
 
 
 Summary: This project is designed to provide users to order foods thru online in easy way. Moving on, this Online Food Ordering System Project in PHP focuses mainly on ordering food and managing food items. Also, the system displays all the lists of available dish categories. In addition, the system allows managing food items too. This project is divided into two categories: Admin and User-Side. Here the users can register freely, order the foods they wish from the wide varieties of restaurants, view their order status and get delivered. In this system, the Admin has the most privileges. The Admin can able to add/edit/view/delete users, add/edit/view/delete restaurants, add/edit/view/delete categories, add/edit/view/delete menus and edit/view all users orders thru Admin Panel.
@@ -57,8 +57,3 @@ ADMIN PANEL - Features:
 -->View/edit all user orders
 
 
-IMPORTANT NOTE: Use only for Educational Purposes!
-
-******************************************************************************************************
-
-Check our channel for more Projects!
